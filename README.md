@@ -15,7 +15,7 @@ Mobile Application ( Android Application  )
 - Track trips 
 
 ## The Interface 
-This Application was the Combination Of Data Management of user and Financial Reports of users Bussiness.
+This Application was the Combination Of Data Management of a user and Financial Reports of users Bussiness.
 
 
 
