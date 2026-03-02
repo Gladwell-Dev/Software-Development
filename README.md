@@ -19,4 +19,3 @@ This Application was the Combination Of Data Management of a user and Financial 
 
 
 
-
