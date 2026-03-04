@@ -24,6 +24,11 @@ This Application was the Combination Of Data Management of a user and Financial 
   <img src="login.jpeg" width="500"/>
 </p>
 
+###  LogOut Screen
+<p align="center">
+  <img src="createAccount.jpeg" width="500"/>
+</p
+ 
 ###  HomeScreen
 <p align="center">
   <img src="homeScreen.jpeg" width="500"/>
