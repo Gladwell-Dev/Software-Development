@@ -18,4 +18,3 @@ Mobile Application ( Android Application  )
 This Application was the Combination Of Data Management of a user and Financial Reports of users Bussiness.
 
 ![Login Screen](login.jpeg).
-
