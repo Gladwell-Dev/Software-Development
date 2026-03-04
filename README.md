@@ -33,3 +33,8 @@ This Application was the Combination Of Data Management of a user and Financial 
 <p align="center">
   <img src="analytics.jpeg" width="500"/>
 </p>
+
+###  LogOut Screen
+<p align="center">
+  <img src="logout.jpeg" width="500"/>
+</p
