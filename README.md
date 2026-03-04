@@ -21,10 +21,10 @@ This Application was the Combination Of Data Management of a user and Financial 
 
 ### 🔐 Login Screen
 <p align="center">
-  <img src="images/login.jpeg" width="500"/>
+  <img src="login.jpeg" width="500"/>
 </p>
 
 ### 📊 Dashboard
 <p align="center">
-  <img src="images/dashboard.jpeg" width="500"/>
+  <img src="dashboard.jpeg" width="500"/>
 </p>
