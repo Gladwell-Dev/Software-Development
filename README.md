@@ -19,7 +19,7 @@ This Application was the Combination Of Data Management of a user and Financial 
 
 ## 📸 Application Preview
 
-### 🔐 Login Screen
+###  Login Screen
 <p align="center">
   <img src="login.jpeg" width="500"/>
 </p>
