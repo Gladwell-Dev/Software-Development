@@ -26,5 +26,5 @@ This Application was the Combination Of Data Management of a user and Financial 
 
 ###  Dashboard
 <p align="center">
-  <img src="dashboard.jpeg" width="500"/>
+  <img src="home.jpeg" width="500"/>
 </p>
