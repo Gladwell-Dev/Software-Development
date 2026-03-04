@@ -18,12 +18,17 @@ Mobile Application ( Web  Application  )
 
 ###  LogIn Screen
 <p align="center">
-  <img src="logIn.png " width="500"/>
+  <img src="Login.png " width="500"/>
 </p
 
-###  Dashboard Screen
+### Dashboard Screen
 <p align="center">
-  <img src="dashboard.png " width="500"/>
+  <img src="Dashboard.png " width="500"/>
+</p
+
+### Analytics Screen
+<p align="center">
+  <img src="Analytics.png " width="500"/>
 </p
 
 
