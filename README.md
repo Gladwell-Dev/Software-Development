@@ -17,4 +17,14 @@ Mobile Application ( Android Application  )
 ## The Interface
 This Application was the Combination Of Data Management of a user and Financial Reports of users Bussiness.
 
-![Login Screen](login.jpeg).
+## 📸 Application Preview
+
+### 🔐 Login Screen
+<p align="center">
+  <img src="images/login.jpeg" width="500"/>
+</p>
+
+### 📊 Dashboard
+<p align="center">
+  <img src="images/dashboard.jpeg" width="500"/>
+</p>
