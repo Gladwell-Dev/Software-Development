@@ -28,7 +28,7 @@ Mobile Application ( Web  Application  )
 
 ### Analytics Screen
 <p align="center">
-  <img src="Analytics.png " width="500"/>
+  <img src="Analysis.png " width="500"/>
 </p
 
 
