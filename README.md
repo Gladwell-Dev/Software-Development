@@ -17,7 +17,7 @@ Mobile Application ( Android Application  )
 ## The Interface 
 This Application was the Combination Of Data Management of a user and Financial Reports of users Bussiness.
 
-## 📸 Application Preview
+## 📸 Application Preview 
 
 ###  Login Screen
 <p align="center">
