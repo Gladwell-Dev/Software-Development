@@ -12,7 +12,7 @@ Mobile Application ( Web  Application  )
 - Making Announcements 
 - Track Records
 - Users Managements
-- Track trips
+- Track trips 
 
 ## Application Overview 
 
