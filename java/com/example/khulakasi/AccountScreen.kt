@@ -550,6 +550,6 @@ fun NotificationSettingsSection() {
             onCheckedChange = { systemMaintenance = it }
         )
         Spacer(modifier = Modifier.width(12.dp))
-        Text("System Maintenance Alerts", fontSize = 16.sp, color = Color(0xFF093030))
+        Text("System Maintenance Alert", fontSize = 16.sp, color = Color(0xFF093030))
     }
 }
