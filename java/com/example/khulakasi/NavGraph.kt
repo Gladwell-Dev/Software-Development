@@ -29,7 +29,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 
 sealed class Screen(val route: String, val iconRes: Int, val label: String) {
     object Main : Screen("main", R.drawable.home_40px, "Home")
-    object Chart : Screen("chart", R.drawable.show_chart_40px, "Show Chart")
+    object Chart : Screen("chart", R.drawable.show_chart_40px, " Show Chart")
     object Search : Screen("search", R.drawable.category_search_48px, "Search")
     object Dashboard : Screen("dashboard", R.drawable.dashboard_40px, "DashBoard")
     object Settings : Screen("settings", R.drawable.settings_20px, "Settings")
