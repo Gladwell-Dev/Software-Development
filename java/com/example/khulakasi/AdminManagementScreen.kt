@@ -110,7 +110,7 @@ fun AdminManagementScreen(navController: NavHostController) {
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    // Container 3: Total Drivers
+                    //
                     StatsContainer(
                         iconRes = R.drawable.driver_man_24,
                         number = "3",
@@ -118,7 +118,7 @@ fun AdminManagementScreen(navController: NavHostController) {
                         modifier = Modifier.weight(1f)
                     )
 
-                    // Container 4: Approved Vehicles
+                    //
                     StatsContainer(
                         iconRes = R.drawable.octagon_check_24,
                         number = "0",
