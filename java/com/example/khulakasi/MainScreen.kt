@@ -53,7 +53,7 @@ fun MainScreen(navController: NavHostController) {
             modifier = Modifier
                 .fillMaxSize()
                 .verticalScroll(rememberScrollState()) // Full scrollable content
-                .padding(bottom = 100.dp) // ensures smooth scroll behind BottomNav
+                .padding(bottom = 100.dp)
         ) {
             // ---- Top bar with profile image + greeting ----
             Row(

@@ -105,7 +105,7 @@ fun AdminManagementScreen(navController: NavHostController) {
                     )
                 }
 
-                // Row 2: Second two containers
+
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(16.dp)
