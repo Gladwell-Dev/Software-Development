@@ -118,8 +118,8 @@ fun MainScreen(navController: NavHostController) {
                 }
             }
 
-            // Push the Search Bar down more
-            Spacer(modifier = Modifier.height(50.dp)) // Increased from 34dp
+
+            Spacer(modifier = Modifier.height(50.dp))
 
             // ---- Search bar with NAVIGATION ----
             Row(
@@ -147,7 +147,7 @@ fun MainScreen(navController: NavHostController) {
                     modifier = Modifier.fillMaxWidth(),
                     contentAlignment = Alignment.CenterStart
                 ) {
-                    // Always show placeholder text since this is now just a navigation element
+
                     Text(
                         text = "Search for Categories",
                         fontSize = 16.sp,
