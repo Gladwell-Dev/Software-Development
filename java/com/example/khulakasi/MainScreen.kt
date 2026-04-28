@@ -67,16 +67,16 @@ fun MainScreen(navController: NavHostController) {
                     // Bigger circle image container with white background
                     Box(
                         modifier = Modifier
-                            .size(80.dp) // Increased from 60dp
+                            .size(80.dp)
                             .clip(CircleShape)
-                            .background(Color.White), // White background
+                            .background(Color.White),
                         contentAlignment = Alignment.Center
                     ) {
                         Image(
                             painter = painterResource(id = R.drawable.man),
                             contentDescription = "User Photo",
                             modifier = Modifier
-                                .size(50.dp) // Image size within the white container
+                                .size(50.dp)
                                 .clip(CircleShape)
                         )
                     }
