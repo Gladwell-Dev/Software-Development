@@ -91,7 +91,7 @@ fun DeleteScreen(navController: NavController) {
                 modifier = Modifier.padding(bottom = 20.dp)
             )
 
-            // Warning container with transparent background
+            //
             Box(
                 modifier = Modifier
                     .fillMaxWidth()

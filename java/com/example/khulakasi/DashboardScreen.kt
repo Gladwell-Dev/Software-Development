@@ -60,7 +60,7 @@ fun DashboardScreen(navController: NavHostController) {
                 modifier = Modifier.fillMaxWidth(),
                 verticalArrangement = Arrangement.spacedBy(12.dp)
             ) {
-                // Row 1: Passenger Manager, Income, Add Drivers
+                //
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(8.dp)
