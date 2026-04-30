@@ -116,7 +116,7 @@ fun DashboardScreen(navController: NavHostController) {
                     )
                 }
 
-                // Row 3: Admin Management, Verify Me, Booking Trip
+
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(8.dp)
