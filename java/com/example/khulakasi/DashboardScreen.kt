@@ -88,7 +88,7 @@ fun DashboardScreen(navController: NavHostController) {
                     )
                 }
 
-                // Row 2: Add Vehicles, Announcements, Bookkeep Records
+
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(8.dp)
