@@ -273,8 +273,7 @@ fun ProfileScreen(navController: NavController) {
             }
         }
 
-        // Back Arrow
-        // In ProfileScreen, replace the back arrow section with:
+
         Icon(
             painter = painterResource(id = R.drawable.arrow_back_20px),
             contentDescription = "Back",
