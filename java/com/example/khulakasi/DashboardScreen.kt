@@ -147,7 +147,7 @@ fun DashboardScreen(navController: NavHostController) {
 
             Spacer(modifier = Modifier.height(24.dp))
 
-            // Cross Icon Container (centered at the bottom)
+
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
