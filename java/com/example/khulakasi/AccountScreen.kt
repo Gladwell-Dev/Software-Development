@@ -451,7 +451,7 @@ fun AddAddressSection() {
     Box(
         modifier = Modifier
             .wrapContentWidth()
-            .clip(RoundedCornerShape(20.dp)) // UPDATED: More rounded edges
+            .clip(RoundedCornerShape(20.dp))
             .background(Color(0xFF093030))
             .clickable {
                 Toast.makeText(context, "Address Saved Successfully", Toast.LENGTH_SHORT).show()
