@@ -75,7 +75,7 @@ fun LoginScreen(
 
             Spacer(modifier = Modifier.height(30.dp))
 
-            // Social Buttons
+
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceEvenly
