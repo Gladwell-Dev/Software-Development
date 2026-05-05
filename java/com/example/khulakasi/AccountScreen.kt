@@ -476,7 +476,7 @@ fun AddressInputField(label: String, value: String, onValueChange: (String) -> U
                 unfocusedBorderColor = Color.Gray,
                 cursorColor = Color(0xFF093030)
             ),
-            shape = RoundedCornerShape(20.dp) // UPDATED: More rounded edges
+            shape = RoundedCornerShape(20.dp)
         )
     }
 }
