@@ -283,7 +283,7 @@ fun ProfileScreen(navController: NavController) {
                 .padding(start = 16.dp, top = 24.dp)
                 .size(28.dp)
                 .clickable {
-                    navController.popBackStack() // UPDATED: Now terminates the screen
+                    navController.popBackStack()
                 }
         )
 
