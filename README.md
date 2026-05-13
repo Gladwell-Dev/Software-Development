@@ -18,7 +18,7 @@ Mobile Application ( Android Application  )
 This Application was the Combination Of Data Management of a user and Financial Reports of users Bussiness.
 
 ## 📸 Application Preview.
-
+  
 ###  Login Screen
 <p align="center">
   <img src="login.jpeg" width="500"/>
