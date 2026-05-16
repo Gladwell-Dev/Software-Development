@@ -10,7 +10,7 @@ Mobile Application ( Android Application  )
 - This App shows the Business Data ,  Dashbaords displays to show Automated Transactions and Imported data.
 - Recording Passengers information  
 - Making Announcements
-- Track Records
+- Track Records.
 - Users Managements
 - Track trips.  
   
